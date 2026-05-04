@@ -41,10 +41,10 @@ This repository contains the experimental artifacts, results, and visualizations
 
 ## ⚙️ How to Use These Artifacts
 
-** Data Processing Pipeline**: Consult the flowchart below
+**Data Processing Pipeline**: Consult the flowchart below
 ![Data Processing Flowchart](figures/Figure_6.png)
 
-** Calculating Error Rates**: Once results are calculated, run the two scripts shown below
+**Calculating Error Rates**: Once results are calculated, run the two scripts shown below
 ![Error Rate Calculations](figures/Figure_7.png)
 
 ## 📈 Main Figures (Results + Error Rates)
