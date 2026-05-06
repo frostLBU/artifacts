@@ -65,4 +65,6 @@ This repository contains the experimental artifacts, results, and visualizations
 The full adversarial prompt framework is stored in encrypted form (`adversarial_prompt_framework.enc`).  
 The full raw batch outputs (mk4, mk5, mk6) and associated artifacts, including the unencrypted adversarial prompt framework, are available upon request to academics and security researchers conditional on ethical alignment/approval - email a.frost8789@student.leedsbeckett.ac.uk for inquiries.  
 
+**To decrypt, simply run**: `openssl enc -d -aes-256-cbc -pbkdf2 -iter 100000 -salt -in adversarial_prompt_framework.enc -out adversarial_prompt_framework.txt` **and supply the correct password when prompted to do so.**
+
 ---
